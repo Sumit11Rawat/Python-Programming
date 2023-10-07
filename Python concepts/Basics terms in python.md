@@ -22,12 +22,13 @@ NOTE-->Always give the identifiers a name that makes sense.
              Here, language is a variable (an identifier) which holds the value 'Python'.
 
 4 COMMENTS-->Comments in Python are the lines in the code that are ignored by the interpreter during the execution of the program.
-             Comments enhance the readability of the code and help the programmers to understand the code very carefully. 
-        
-           -->single line comment-
+             Comments enhance the readability of the code and help the programmers to understand the code very carefully.
+             
+-->single line comment-
                                   start with an #symbol
-                                  for example #this is python code
-           -->multiline comments- 
+                                  for example #this is python code  
+                                  
+-->multiline comments- 
                                   #symbol can be used in multiple line
                                   for example #this is a multiline python comment
                                               #here we can use # multiple times
@@ -40,9 +41,11 @@ NOTE-->Always give the identifiers a name that makes sense.
 
 6  IDE vs IDLE
                 IDE-->
-                       Ide stand for integrated development Environment . IDE is a software environment which usually consist of a software
+                       Ide stand for integrated development Environment . IDE is a software environment which usually consist of a 
+                        software
                         development package containing code editor,build automation.tools & debugger 
 
-                IDLE-->DLE is a acronym for Integrated Development and Learning Environment. This includes the basic packages and concepts 
+                IDLE-->DLE is a acronym for Integrated Development and Learning Environment. This includes the basic packages and 
+                       concepts 
                               of an IDE in addition for learning and educational purposes .
                       -->  IDLE is the integrated development environment (IDE) provided with Python
