@@ -24,11 +24,11 @@ NOTE-->Always give the identifiers a name that makes sense.
 4 COMMENTS-->Comments in Python are the lines in the code that are ignored by the interpreter during the execution of the program.
              Comments enhance the readability of the code and help the programmers to understand the code very carefully.
              
-       -->single line comment-
+                    -->single line comment-
                                   start with an #symbol
                                   for example #this is python code  
                                   
-       -->multiline comments- 
+                    -->multiline comments- 
                                   #symbol can be used in multiple line
                                   for example #this is a multiline python comment
                                               #here we can use # multiple times
