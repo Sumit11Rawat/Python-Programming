@@ -40,6 +40,7 @@ NOTE-->type() function is used to find the type of numeric data type
                               -->  Boolean objects that are equal to True are truthy (true), and those equal to False are falsy (false).
                               -->  But non-Boolean objects can be evaluated in a Boolean context as well and determined to be true or 
                                    false. It is denoted by the class bool. 
+                                   
                                       for example  print(type(True))
                                            print(type(true)) 
                                        output-  <class 'bool'>
@@ -50,6 +51,7 @@ NOTE-->type() function is used to find the type of numeric data type
                                    duplicate elements
                                -->>Sets can be created by using the built-in set() function with an iterable object or a sequence by 
                                    placing the seqence inside curly braces, separated by a ‘comma’
+                                   
                                     for example  set1 = set("GeeksForGeeks")
                                                     print("\nSet with the use of String: ")
                                                     print(set1)
@@ -65,6 +67,7 @@ NOTE-->type() function is used to find the type of numeric data type
                                                 -->A string is a collection of one or more characters put in a single quote, double- 
                                                    quote, or triple-quote
                                                 -->In python there is no character data type, a character is a string of length one.
+                                                
                                                 for example  String1 = 'Welcome to the Geeks World'
                                                                      print("String with the use of Single Quotes: ")
                                                                      print(String1)
@@ -76,7 +79,8 @@ NOTE-->type() function is used to find the type of numeric data type
                                                --> List are mutable i.e. can be modified after it is created
                                               -->  Lists in Python can be created by just placing the sequence inside the square 
                                                    brackets[]. 
-                                             for example
+                                                   
+                                                 for example
                                                           List = [['Geeks', 'For'], ['Geeks']]
                                                           print("\nMulti-Dimensional List: ")
                                                           print(List) 
@@ -89,6 +93,7 @@ NOTE-->type() function is used to find the type of numeric data type
                                                       tuples cannot be modified after it is created
                                                --> In Python, tuples are created by placing a sequence of values separated by a ‘comma’ 
                                                   with or without the use of parentheses for grouping the data sequence.
+                                                  
                                               for example  list1 = [1, 2, 4, 5, 6]
                                                             print("\nTuple using List: ")
                                                              print(tuple(list1))
