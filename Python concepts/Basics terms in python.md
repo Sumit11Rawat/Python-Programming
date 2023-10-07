@@ -8,7 +8,8 @@
        
        1->an identifier cannot be a keyword
        2->Identifiers are case-sensitive.
-       3->It can have a sequence of letters and digits. However, it must begin with a letter or _. The first letter of an identifier cannot be a digit
+       3->It can have a sequence of letters and digits. However, it must begin with a letter or _. The first letter of an identifier 
+          cannot be a digit
        4->Whitespaces are not allowed.
        5->We cannot use special symbols like !, @, #, $, and so on.
 
