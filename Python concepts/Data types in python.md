@@ -5,11 +5,11 @@
   -->>Python Data Types
   
              Data Types	            Classes	                                 Description
-              Numeric	            int, float, complex	                  holds numeric values
-               Sequence	            list, tuple, string                      holds collection of items
-               dictionary	            dict	                                holds data in key-value pair form
-               Boolean	            bool	                                holds either True or False
-               Set	                   set	                                 hold collection of unique items
+    1          Numeric	            int, float, complex	                  holds numeric values
+    2           Sequence	            list, tuple, string                      holds collection of items
+    3           dictionary	            dict	                                holds data in key-value pair form
+    4          Boolean	            bool	                                holds either True or False
+    5          Set	                   set	                                 hold collection of unique items
      
 
 
