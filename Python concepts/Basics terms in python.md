@@ -40,12 +40,13 @@ NOTE-->Always give the identifiers a name that makes sense.
   
 
 6  IDE vs IDLE
+  
                      IDE-->
-                        Ide stand for integrated development Environment . IDE is a software environment which usually consist of a 
-                        software development package containing code editor,build automation.tools & debugger 
+                            Ide stand for integrated development Environment . IDE is a software environment which usually consist of a 
+                            software development package containing code editor,build automation.tools & debugger 
 
                      IDLE-->
                            IDLE is a acronym for Integrated Development and Learning Environment. This includes the basic packages and 
                            concepts 
                               of an IDE in addition for learning and educational purposes .
-                           -->  IDLE is the integrated development environment (IDE) provided with Python
+                           IDLE is the integrated development environment (IDE) provided with Python
