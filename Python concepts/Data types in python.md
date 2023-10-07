@@ -28,6 +28,7 @@ NOTE-->type() function is used to find the type of numeric data type
 2-->>Python Dictionary Data Type
                              -->  Python dictionary is an ordered collection of items. It stores elements in key/value pair
                              -->  Here, keys are unique identifiers that are associated with each value.
+                             
                                  for example -#
                                               create a dictionary named capital_city
                                               capital_city = {'Nepal': 'Kathmandu', 'Italy': 'Rome', 'England':'London'} 
