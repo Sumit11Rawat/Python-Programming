@@ -3,6 +3,7 @@
   -->>In python data type,specify type of data that can be stored in a variable
 
   -->>Python Data Types
+  
              Data Types	            Classes	                                 Description
                Numeric	            int, float, complex	                  holds numeric values
                Sequence	            list, tuple, string                      holds collection of items
