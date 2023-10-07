@@ -20,6 +20,7 @@
                                  --> complex - holds complex numbers.
 
 NOTE-->type() function is used to find the type of numeric data type
+ 
                                example num1 = 5
                                 print(num1, 'is of type', type(num1))
                                  output is 5 is of type <class 'int'>
