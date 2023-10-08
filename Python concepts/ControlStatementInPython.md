@@ -75,8 +75,9 @@ Python has three types of control structures:
                In Python, we generally have two loops/repetitive statements:
                for loop
                while loop
-
-       for loop –> A for loop is used to iterate over a sequence that is either a list, tuple, dictionary, or a set.
+ 
+  
+      for loop –> A for loop is used to iterate over a sequence that is either a list, tuple, dictionary, or a set.
 
                    print("1st example")
                    lst = [1, 2, 3]
