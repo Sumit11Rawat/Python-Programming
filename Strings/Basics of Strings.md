@@ -1,8 +1,11 @@
-STRING-It is a built in data type of python that stores sequence of characters
+
+                           STRING
+                           
+->It is a built in data type of python that stores sequence of characters
                              
- NOTE->Python does not have a character data type, a single character is simply a string with a length of 1.
-      ->Strings in python are surrounded by either single quotation marks, or double quotation marks.
-      ->You can display a string literal with the print() function:
+ NOTE   -> Python does not have a character data type, a single character is simply a string with a length of 1.
+          ->Strings in python are surrounded by either single quotation marks, or double quotation marks.
+          ->You can display a string literal with the print() function:
 
 Assign String to a Variable
                      
